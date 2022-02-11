@@ -19,25 +19,67 @@ export default function Home() {
 
 				<ul className="mt-8 space-y-2">
 					<li className="text-2xl font-semibold  text-sky-700 ">
-						<a className="text-amber-500 hover:text-sky-500"  href="/api/aboutus">/api/about us</a>
+						<a
+							className="text-amber-500 hover:text-sky-500"
+							href=" /api/aboutus"
+						>
+							{" "}
+							/api/blog
+						</a>
 					</li>
 					<li className="text-2xl font-semibold  text-sky-700 ">
-						<a className="text-amber-500 hover:text-sky-500"  href="	/api/blog"> /api/blog</a>
+						<a
+							className="text-amber-500 hover:text-sky-500"
+							href="	/api/blog"
+						>
+							{" "}
+							/api/blog
+						</a>
 					</li>
 					<li className="text-2xl font-semibold  text-sky-700 ">
-						<a className="text-amber-500 hover:text-sky-500"  href="	/api/homepage"> /api/homepage</a>
+						<a
+							className="text-amber-500 hover:text-sky-500"
+							href="	/api/homepage"
+						>
+							{" "}
+							/api/homepage
+						</a>
 					</li>
 					<li className="text-2xl font-semibold  text-sky-700 ">
-						<a className="text-amber-500 hover:text-sky-500"  href="	/api/portfolio"> /api/portfolio</a>
+						<a
+							className="text-amber-500 hover:text-sky-500"
+							href="	/api/portfolio"
+						>
+							{" "}
+							/api/portfolio
+						</a>
 					</li>
 					<li className="text-2xl font-semibold  text-sky-700 ">
-						<a className="text-amber-500 hover:text-sky-500"  href="	/api/radio"> /api/radio</a>
+						<a
+							className="text-amber-500 hover:text-sky-500"
+							href="	/api/radio"
+						>
+							{" "}
+							/api/radio
+						</a>
 					</li>
 					<li className="text-2xl font-semibold  text-sky-700 ">
-						<a className="text-amber-500 hover:text-sky-500"  href="	/api/servicedata"> /api/servicedata</a>
+						<a
+							className="text-amber-500 hover:text-sky-500"
+							href="	/api/servicedata"
+						>
+							{" "}
+							/api/servicedata
+						</a>
 					</li>
 					<li className="text-2xl font-semibold  text-sky-700 ">
-						<a className="text-amber-500 hover:text-sky-500"  href="	/api/upcoming"> /api/upcoming</a>
+						<a
+							className="text-amber-500 hover:text-sky-500"
+							href="	/api/upcoming"
+						>
+							{" "}
+							/api/upcoming
+						</a>
 					</li>
 				</ul>
 			</main>
